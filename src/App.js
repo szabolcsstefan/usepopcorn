@@ -5,7 +5,7 @@ import MovieList from "./components/MovieList";
 import WatchedSummary from "./components/WatchedSummary";
 import WatchedMoviesList from "./components/WatchedMoviesList";
 
-export const KEY = "dc1d81c6";
+export const KEY = "your_api_key_here";
 
 export default function App() {
   const [query, setQuery] = useState("");
