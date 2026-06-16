@@ -45,8 +45,3 @@ Start the development server:
 npm run start
 ```
 The app should now be running at http://localhost:3000.
-
-## 📖Lessons Learned
-- Effect Cleanup: Managing API abort controllers to prevent memory leaks.
-- Component Composition: Avoiding "prop drilling" by using the children prop.
-- Custom Hooks: Abstracting complex logic into reusable functions.
